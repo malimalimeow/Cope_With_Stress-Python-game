@@ -51,10 +51,14 @@ This is another mini-game created with **Pygame**.
 1. platform able to run Python 
 
 2. install modules show in requirements.txt using:
-   ```bash pip install -r requirements.txt```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-3. run the program using:
-   ```bash python project.py```
+4. run the program using:
+   ```bash
+   python project.py
+   ```
 ---
 
 ### Project Structure:
@@ -89,6 +93,7 @@ There are several possible future improvements for this project:
 
 ### Credit:
 CS50P Final Project
+
 
 
 
