@@ -87,13 +87,14 @@ This is another mini-game created with **Pygame**.
 ### Future Improvements:
 There are several possible future improvements for this project:
 - **Graphical User Interface (GUI):** Making the program GUI-based (instead of text-based) would make it more accessible and visually appealing.
-- **Data recording:** Storing the record of the user’s stress levels in SQL database, making it easier to filter, query, and analyse the results over time.
+- **Data recording:** Storing the record of the users' stress levels in SQL database, making it easier to filter, query, and analyse the results over time.
 - **More activities:** Adding new games, music playlists, or guided breathing/meditation exercises could be included to provide more variety.
 - **Expanded survey:** Increasing the number of questions could improve the accuracy and representativeness of the stress-level assessment.
 ---
 
 ### Credit:
 CS50P Final Project
+
 
 
 
