@@ -6,6 +6,7 @@ Stress is something everyone experiences in daily life, this project helps users
 It is based on a short survey from the *Perceived Stress Scale (PSS-4)* (Cohen et al., 1983) to identify their stress level: **High**, **Medium**, or **Low**. 
 
 It was built using Python, depending on the results, the program will guide the users to different relaxing activities.
+
 ---
 ### Features:
 This project contains three main files: **`project.py`**, **`click.py`**, and **`snake.py`**.
@@ -93,6 +94,7 @@ There are several possible future improvements for this project:
 
 ### Credit:
 CS50P Final Project
+
 
 
 
