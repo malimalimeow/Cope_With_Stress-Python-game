@@ -52,8 +52,8 @@ This is another mini-game created with **Pygame**.
 
 2. install modules show in requirements.txt using:
    ```bash
-pip install -r requirements.txt
-```
+   pip install -r requirements.txt
+   ```
 
 4. run the program using:
    ```bash
@@ -93,6 +93,7 @@ There are several possible future improvements for this project:
 
 ### Credit:
 CS50P Final Project
+
 
 
 
